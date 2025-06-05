@@ -1,0 +1,6 @@
+com\football\matches\service\StadiumServiceTest.class
+com\football\matches\controller\GameControllerTest.class
+com\football\matches\controller\PlayerControllerTest.class
+com\football\matches\controller\StadiumControllerTest.class
+com\football\matches\service\GameServiceTest.class
+com\football\matches\service\PlayerServiceTest.class
